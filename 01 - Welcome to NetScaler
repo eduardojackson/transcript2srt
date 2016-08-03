@@ -1,0 +1,17 @@
+00:00:00
+My name is Keith Barker, and on behalf of the entire CBT Nuggets family, welcome to Citrix Netscaler. I'd like you to imagine that you're sitting at work and your boss walks up and says, hey, guess what. We decided that we're going to implement and deploy Netscaler, both as a load balancer, as well as an SSL VPN gateway to integrate with our network devices, as well as our Citrix XenDesktop, XenApp environment.
+
+00:00:25
+And furthermore, I'd like you to imagine, in your mind, that you don't have any exposure or experience with the Netscaler. Well. you're saying, Keith, I don't have to imagine that. I don't have any exposure or experience with the Netscaler. Have no fear. In this course, what we get to do together is to install, deploy, configure, and integrate a Netscaler into a network.
+
+00:00:48
+And, as you and I continue this journey together, in this course, we'll take a look at several the features of the Netscaler, and how to use them. Now one of the challenges is there's like eleventy billion features and functions that the Netscaler can provide.
+
+00:01:01
+So it's not reasonable to cover everything, but what I would love to do with you-- in this course-- is cover the fundamental pieces, and help you with that ramp-up period, as you get up to speed with the Netscaler. So in our topology, the Netscaler can fit right here, it can also fit right here, it can also fit right here, as it provides either gateway services, or load balancing services, or both between devices in our network.
+
+00:01:27
+So I wanted to keep this Nugget really, really short, so that you and I can jump right into the meat of this content, and that's in the very next video-- that's titled, What's a Netscaler? As we go through this journey together, if you have the opportunity to build a practice lab and practice alongside of me, you can get the eval software directly from Citrix, and that includes the Netscaler, VPX, the virtual appliance, as well as Citrix XenDesktop.
+
+00:01:52
+They've got evals for both. And what I'm doing in this course is everything is running in a virtualized environment on a single computer. And I strongly encourage you, where possible, to get lots and lots of hands-on practice with this technology, as that will assist you in building those skills that could be directly applied to a production network.
